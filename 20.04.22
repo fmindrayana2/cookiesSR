@@ -8,9 +8,8 @@
         "secure": false,
         "httpOnly": false,
         "sameSite": "no_restriction",
-        "session": false,
+        "session": true,
         "firstPartyDomain": "",
-        "expirationDate": 1810800411,
         "storeId": null
     },
     {
@@ -35,14 +34,13 @@
         "secure": false,
         "httpOnly": false,
         "sameSite": "no_restriction",
-        "session": false,
+        "session": true,
         "firstPartyDomain": "",
-        "expirationDate": 1809837653,
         "storeId": null
     },
     {
         "name": "_gid",
-        "value": "GA1.2.1916134687.1652325261",
+        "value": "GA1.2.1233511324.1652683407",
         "domain": ".spinrewriter.com",
         "hostOnly": false,
         "path": "/",
@@ -51,7 +49,7 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "expirationDate": 1652518233,
+        "expirationDate": 1652769807,
         "storeId": null
     },
     {
@@ -63,9 +61,8 @@
         "secure": false,
         "httpOnly": false,
         "sameSite": "no_restriction",
-        "session": false,
+        "session": true,
         "firstPartyDomain": "",
-        "expirationDate": 1715503833,
         "storeId": null
     },
     {
@@ -77,9 +74,8 @@
         "secure": false,
         "httpOnly": false,
         "sameSite": "no_restriction",
-        "session": false,
+        "session": true,
         "firstPartyDomain": "",
-        "expirationDate": 1660207833,
         "storeId": null
     },
     {
@@ -91,9 +87,8 @@
         "secure": false,
         "httpOnly": false,
         "sameSite": "no_restriction",
-        "session": false,
+        "session": true,
         "firstPartyDomain": "",
-        "expirationDate": 1815976412,
         "storeId": null
     },
     {
@@ -105,9 +100,8 @@
         "secure": false,
         "httpOnly": false,
         "sameSite": "no_restriction",
-        "session": false,
+        "session": true,
         "firstPartyDomain": "",
-        "expirationDate": 1809844809,
         "storeId": null
     },
     {
@@ -119,9 +113,8 @@
         "secure": false,
         "httpOnly": false,
         "sameSite": "no_restriction",
-        "session": false,
+        "session": true,
         "firstPartyDomain": "",
-        "expirationDate": 1683967809,
         "storeId": null
     },
     {
@@ -133,9 +126,8 @@
         "secure": false,
         "httpOnly": false,
         "sameSite": "no_restriction",
-        "session": false,
+        "session": true,
         "firstPartyDomain": "",
-        "expirationDate": 1655023809,
         "storeId": null
     },
     {
@@ -147,9 +139,8 @@
         "secure": false,
         "httpOnly": false,
         "sameSite": "no_restriction",
-        "session": false,
+        "session": true,
         "firstPartyDomain": "",
-        "expirationDate": 1809860883,
         "storeId": null
     }
 ]
