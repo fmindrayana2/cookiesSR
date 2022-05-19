@@ -8,13 +8,14 @@
         "secure": false,
         "httpOnly": false,
         "sameSite": "no_restriction",
-        "session": true,
+        "session": false,
         "firstPartyDomain": "",
+        "expirationDate": 1655554481,
         "storeId": null
     },
     {
         "name": "PHPSESSID",
-        "value": "43b137f634c58ab9e879ec66b3a7f1f2",
+        "value": "760fb0b1d43eebc0f4d69482e7e8e189",
         "domain": "www.spinrewriter.com",
         "hostOnly": true,
         "path": "/",
@@ -34,13 +35,14 @@
         "secure": false,
         "httpOnly": false,
         "sameSite": "no_restriction",
-        "session": true,
+        "session": false,
         "firstPartyDomain": "",
+        "expirationDate": 1652954545,
         "storeId": null
     },
     {
         "name": "_gid",
-        "value": "GA1.2.1711734224.1652858401",
+        "value": "GA1.2.727038546.1652954485",
         "domain": ".spinrewriter.com",
         "hostOnly": false,
         "path": "/",
@@ -49,7 +51,7 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "expirationDate": 1652944832,
+        "expirationDate": 1653040906,
         "storeId": null
     },
     {
@@ -63,7 +65,7 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "expirationDate": 1715930432,
+        "expirationDate": 1716026506,
         "storeId": null
     },
     {
@@ -77,20 +79,21 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "expirationDate": 1660634433,
+        "expirationDate": 1660730506,
         "storeId": null
     },
     {
         "name": "_gcl_au",
-        "value": "1.1.1770851451.1650434012",
+        "value": "1.1.1065670077.1652954485",
         "domain": ".spinrewriter.com",
         "hostOnly": false,
         "path": "/",
         "secure": false,
         "httpOnly": false,
         "sameSite": "no_restriction",
-        "session": true,
+        "session": false,
         "firstPartyDomain": "",
+        "expirationDate": 1660730484,
         "storeId": null
     },
     {
@@ -102,8 +105,9 @@
         "secure": false,
         "httpOnly": false,
         "sameSite": "no_restriction",
-        "session": true,
+        "session": false,
         "firstPartyDomain": "",
+        "expirationDate": 1652961704,
         "storeId": null
     },
     {
@@ -117,7 +121,7 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "expirationDate": 1684394431,
+        "expirationDate": 1684490504,
         "storeId": null
     },
     {
@@ -131,7 +135,7 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "expirationDate": 1655450431,
+        "expirationDate": 1655546504,
         "storeId": null
     },
     {
@@ -143,8 +147,23 @@
         "secure": false,
         "httpOnly": false,
         "sameSite": "no_restriction",
-        "session": true,
+        "session": false,
         "firstPartyDomain": "",
+        "expirationDate": 1652961682,
+        "storeId": null
+    },
+    {
+        "name": "pref_spinning_html_format",
+        "value": "1",
+        "domain": "www.spinrewriter.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "expirationDate": 1684481940,
         "storeId": null
     }
 ]
