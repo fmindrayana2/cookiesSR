@@ -15,7 +15,7 @@
     },
     {
         "name": "PHPSESSID",
-        "value": "ee9baab233b7c8bd33779524b561ea03",
+        "value": "97fa606b6ed3f22a41c5fcdfaea4eeb7",
         "domain": "www.spinrewriter.com",
         "hostOnly": true,
         "path": "/",
@@ -37,7 +37,7 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "expirationDate": 1653412017,
+        "expirationDate": 1653459187,
         "storeId": null
     },
     {
@@ -51,7 +51,7 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "expirationDate": 1653498404,
+        "expirationDate": 1653545573,
         "storeId": null
     },
     {
@@ -65,7 +65,7 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "expirationDate": 1716484004,
+        "expirationDate": 1716531173,
         "storeId": null
     },
     {
@@ -79,7 +79,7 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "expirationDate": 1661188004,
+        "expirationDate": 1661235173,
         "storeId": null
     },
     {
@@ -107,7 +107,7 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "expirationDate": 1653419203,
+        "expirationDate": 1653466341,
         "storeId": null
     },
     {
@@ -121,7 +121,7 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "expirationDate": 1684948003,
+        "expirationDate": 1684995171,
         "storeId": null
     },
     {
@@ -135,7 +135,7 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "expirationDate": 1656004003,
+        "expirationDate": 1656051171,
         "storeId": null
     },
     {
@@ -149,7 +149,7 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "expirationDate": 1653419155,
+        "expirationDate": 1653466324,
         "storeId": null
     },
     {
